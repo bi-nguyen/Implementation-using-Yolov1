@@ -10,6 +10,9 @@ learning_rate: 2e-5
 # Evaluation 
 The model is evaluated based on 0.5AP with 0.95% 
 The model now have problem with overfitting to fix this problem we need more data to train
+# Inference 
+![image](https://github.com/bi-nguyen/Implementation-using-Yolov1/assets/106424285/b1ecb804-1b5a-42ff-aa83-e72422fefd56)
+![Figure_2](https://github.com/bi-nguyen/Implementation-using-Yolov1/assets/106424285/95654e7a-3238-47cf-9424-12d2309226fa)
 
 
 
